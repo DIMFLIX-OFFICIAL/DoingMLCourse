@@ -1,0 +1,10 @@
+longitude
+latitude
+housing_median_age
+total_rooms - total rooms in the district
+total_bedrooms - total bedrooms in the district
+population - total population in the district
+households - total households in the district
+median_income
+median_house_value
+ocean_proximity - distance to the ocean
